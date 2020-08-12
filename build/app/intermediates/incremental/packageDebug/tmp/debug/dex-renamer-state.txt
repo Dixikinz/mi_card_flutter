@@ -1,0 +1,4 @@
+#Wed Aug 12 10:51:57 BST 2020
+base.0=/Users/colin/Documents/GitHub/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
